@@ -10,13 +10,14 @@ I graduated from the Nizhny Novgorod Technical College, my speciality - programm
 # 👨‍💻 Skills
 - HTML
 - CSS, SCSS
-- Java Script
+- JavaScript
 - TypeScript
 - Dart
 - Flutter
 - React, Angular
 - MySQL, PostgreSQL
 - Git
-- Linux
+- Linux (Ubuntu, Fedora)
+- ChartJS, SocketIO, PrimeNG
 # Job
 Starting from October 17 to this day I have been working for the company CARiOT Frontend Developer.
