@@ -9,7 +9,7 @@ Hi, I’m Anufriev Dmitry, i live in Nizhny Novgorod, Russia. I really love web 
 I graduated from the Nizhny Novgorod Technical College, my speciality - programmer.
 # 👨‍💻 Skills
 - HTML
-- CSS, SCSS
+- CSS, SASS, SCSS
 - JavaScript
 - TypeScript
 - Dart
