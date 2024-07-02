@@ -1,5 +1,5 @@
 # 👋 About me
-Hi, I’m Anufriev Dmitry, i live in Nizhny Novgorod, Russia. I really love web development and improve my skills.
+Hi, I’m Anufriev Dmitry, i live in Saint Petersburg, Russia. I really love web development and improve my skills.
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning JavaScript frameworks like React, Vue, Angular.
 # 📫 Contacts
