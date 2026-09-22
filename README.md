@@ -38,6 +38,19 @@ Have experience growing from frontend developer to **team lead**, taking respons
 - PostgreSQL, MySQL
 - Socket.IO
 
+### 1C:Enterprise
+- 1C:Enterprise 8.3
+- 1C:Trade Management (UT 11), 1C:Retail, 1C:UNF, 1C:Accounting 3.0
+- Extensions (without removing support), BSP
+- Managed forms, queries, SKD reports
+- HTTP services, REST/JSON & XML exchanges
+- Scheduled jobs, exchange queues, retries, error journals
+- KKT / 54-FZ / OFD / BPO, RMK scenarios
+- RLS, roles, users
+- Configuration updates & platform 8.3
+- Configuration repository / Git for 1C
+- PostgreSQL query profiling for 1C
+
 ### State & Data
 - Apollo Client
 - REST / GraphQL integrations
@@ -55,6 +68,7 @@ Have experience growing from frontend developer to **team lead**, taking respons
 - Writing technical documentation
 - Collaboration with backend and product teams
 - Leadership and team mentoring
+- 1C requirements gathering, estimation, testing, go-live
 
 ---
 
@@ -63,7 +77,7 @@ Have experience growing from frontend developer to **team lead**, taking respons
 ### Frontend / Fullstack Developer — IZI Software  
 *October 2023 — Present*
 
-- Started as Frontend Developer, later grew into **Fullstack Developer and Frontend Team Lead**
+- Started as Frontend Developer, later grew into **Fullstack Developer**
 - Development and support of **mobile applications** and **web products**
 - Building and scaling **corporate CRM systems**
 - Designing frontend architecture and reusable UI components
