@@ -1,4 +1,4 @@
-# 👋 Dmitry Anufriev — Frontend Engineer
+# 👋 Dmitry Anufriev — Fullstack Engineer
 
 Frontend & Mobile Developer with commercial experience in **building and scaling production-ready products**: web apps, mobile apps, internal CRM systems, and MVPs released to production.
 
